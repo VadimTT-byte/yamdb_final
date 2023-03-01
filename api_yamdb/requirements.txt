@@ -1,0 +1,15 @@
+asgiref==3.2.10
+django~=2.2
+djangorestframework~=3.12
+djangorestframework-simplejwt~=4.7
+PyJWT~=2.1
+requests~=2.26
+django-filter==2.4.0
+gunicorn==20.0.4
+psycopg2-binary==2.8.6
+pytz==2020.1
+sqlparse==0.3.1
+python-dotenv
+pytest==6.2.4
+pytest-pythonpath==0.7.3
+pytest-django==4.5.2
