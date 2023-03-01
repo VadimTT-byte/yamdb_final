@@ -24,7 +24,7 @@ jobs:
         # запуск проверки проекта по flake8
         python -m flake8
 
-        cd api_yamdb/
+        # cd api_yamdb/
         # запустить написанные разработчиков тесты 
         pytest tests
 
