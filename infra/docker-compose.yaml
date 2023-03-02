@@ -10,7 +10,7 @@ services:
       - ./.env
 
   web:
-    image: groober/api_yamdb_web:v1.0.0
+    image: groober/yamdb_final:latest
     restart: always
     volumes:
       - static_value:/app/static
